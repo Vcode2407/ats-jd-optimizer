@@ -1,0 +1,21 @@
+Vinay Kumar
+Final-year B.Tech Computer Science Engineering student
+VIT University | Expected May 2025
+
+Skills:
+Python, Bash, TCL, PowerShell, Java, C++, PHP
+Physical verification: IC Validator, Calibre, DRC, LVS, PERC
+Backend: Flask, Express.js, Node.js, React.js, SQL, MongoDB
+Cloud/DevOps: AWS S3, Docker, CI/CD, Linux CLI
+
+Experience:
+IT Support Intern - KC Tech Solutions
+- Automated onboarding with PowerShell
+- Managed Active Directory user accounts
+
+Sales Intern - DevTown
+- Increased student enrollments by 20%
+- Collaborated with marketing team
+
+Education:
+CGPA: 8.5/10 | Strong coursework in OS, Networking, Cloud Computing, DSA
