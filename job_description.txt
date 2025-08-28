@@ -1,0 +1,20 @@
+We are seeking a Backend Developer Intern with a strong foundation in computer science and experience in backend development.
+
+Responsibilities:
+- Build and maintain REST APIs
+- Work with databases such as MySQL and MongoDB
+- Collaborate with front-end developers to integrate user-facing elements
+- Write clean, maintainable, and efficient code
+- Participate in code reviews and team meetings
+
+Required Skills:
+- Proficiency in Python, Java, or Node.js
+- Experience with Flask, Express.js, or similar frameworks
+- Knowledge of SQL and NoSQL databases
+- Familiarity with AWS or cloud platforms
+- Understanding of Docker and CI/CD pipelines
+
+Preferred:
+- Knowledge of physical verification flows (DRC/LVS)
+- Understanding of IC Validator or Calibre
+- Strong problem-solving and communication skills
